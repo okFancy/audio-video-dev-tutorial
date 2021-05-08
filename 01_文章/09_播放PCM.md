@@ -20,7 +20,7 @@ ffplay -ar 44100 -ac 2 -f s16le out.pcm
 
 ## SDL
 
-*ffplay*是基于FFmpeg、[SDL](https://www.libsdl.org/)两个库实现的。通过编程的方式播放音视频，也是需要用到这2个库。FFmpeg大家都已经清楚了，比较陌生的是SDL。
+***ffplay*是基于FFmpeg、[SDL](https://www.libsdl.org/)两个库实现的**。通过编程的方式播放音视频，也是需要用到这2个库。ffplay是现成的app, 不能在代码中使用;  FFmpeg大家都已经清楚了，比较陌生的是SDL。
 
 ![SDL Logo](https://img2020.cnblogs.com/blog/497279/202103/497279-20210322194713070-1369162709.png)
 
